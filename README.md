@@ -84,4 +84,4 @@ https://www.youtube.com/watch?v=d68VGJ7yAko - Spark MLlib Tutorial
 
 ### 9) УПРАВЛЕНИЕ ДАННЫМИ
 
-подходами к управлению данными
+подходы к управлению данными
